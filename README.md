@@ -86,7 +86,7 @@ while True:
 ARP Server Waiting...
 Connected with ('127.0.0.1', 54321)
 ```
-<img width="602" height="86" alt="image" src="https://github.com/user-attachments/assets/0e797a0a-831d-4f15-913f-d0be56e3d9b6" />
+<img width="817" height="92" alt="image" src="https://github.com/user-attachments/assets/9af72215-b112-4bcc-b904-3ad45f2dc388" />
 
 
 
@@ -99,7 +99,7 @@ MAC Address: 6A:08:AA:C2
 Enter Logical Address: 165.165.79.1
 MAC Address: 8A:BC:E3:FA
 ```
-<img width="655" height="111" alt="image" src="https://github.com/user-attachments/assets/8b1594a2-fe24-4610-94bd-856de8f5042e" />
+<img width="962" height="165" alt="image" src="https://github.com/user-attachments/assets/895f06b1-b55d-4e24-a110-7a756e8922bd" />
 
 ---
 
