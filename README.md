@@ -184,7 +184,7 @@ while True:
 RARP Server Waiting...
 Connected with ('127.0.0.1', 54322)
 ```
-<img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/7622c1bd-f09b-45cd-a1cb-7f5cdb683f82" />
+<img width="786" height="135" alt="image" src="https://github.com/user-attachments/assets/a800effc-6379-4e80-8eb5-1c0e7dcf7a49" />
 
 
 ### Client
@@ -196,7 +196,7 @@ Logical Address: 192.168.1.100
 Enter MAC Address: 8A:BC:E3:FA
 Logical Address: 192.168.1.99
 ```
-<img width="524" height="115" alt="image" src="https://github.com/user-attachments/assets/fbd29ac0-aedd-45d8-92ae-47e547754a81" />
+<img width="804" height="203" alt="image" src="https://github.com/user-attachments/assets/72e36f38-7094-4df5-b9cb-e5b0fee5bcca" />
 
 ---
 
